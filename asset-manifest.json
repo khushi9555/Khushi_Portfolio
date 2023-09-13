@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Khushi_Portfolio/static/css/main.d2fb9e45.css",
+    "main.js": "/Khushi_Portfolio/static/js/main.3ff80d09.js",
+    "static/media/Image1.png": "/Khushi_Portfolio/static/media/Image1.1b4cdb3b8cbbb4347c75.png",
+    "static/media/Image6.png": "/Khushi_Portfolio/static/media/Image6.c7c6eaa50776bc412e62.png",
+    "static/media/Image2.png": "/Khushi_Portfolio/static/media/Image2.b3381d90f553c42dbbb6.png",
+    "static/media/Image3.png": "/Khushi_Portfolio/static/media/Image3.c0b0e5bdbd5ef33d3010.png",
+    "static/media/girl_photo.png": "/Khushi_Portfolio/static/media/girl_photo.decba5c471193a811219.png",
+    "static/media/logo.png": "/Khushi_Portfolio/static/media/logo.6076746117dbc4b995a4.png",
+    "static/media/CV_Khushi_Pandey(2023).pdf": "/Khushi_Portfolio/static/media/CV_Khushi_Pandey(2023).4bd3b32081648e52deae.pdf",
+    "static/media/Image4.png": "/Khushi_Portfolio/static/media/Image4.3cd7397245b40d224055.png",
+    "static/media/Image5.png": "/Khushi_Portfolio/static/media/Image5.cfc2e45660b47f4c4117.png",
+    "static/media/ui-design.png": "/Khushi_Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Khushi_Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Khushi_Portfolio/index.html",
+    "static/media/linkedin.svg": "/Khushi_Portfolio/static/media/linkedin.f2f6e84ff737f6772aad7511850432b1.svg",
+    "main.d2fb9e45.css.map": "/Khushi_Portfolio/static/css/main.d2fb9e45.css.map",
+    "main.3ff80d09.js.map": "/Khushi_Portfolio/static/js/main.3ff80d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2fb9e45.css",
+    "static/js/main.3ff80d09.js"
+  ]
+}
