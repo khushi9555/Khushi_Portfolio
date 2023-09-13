@@ -1,0 +1,88 @@
+#skill{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 75rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    /* text-align: center; */
+    margin : 0 auto;
+}
+
+.skill_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem; 
+}
+
+.skill_container > div{
+    background: rgb(40, 40, 40);
+    border-radius: 0.5rem;
+    padding: 2.4rem 4rem;
+    transition: all 400ms ease;
+}
+
+
+.skill_container > div:hover{
+    background: transparent;
+}
+.skillTitle{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.title{
+    color: yellow;
+}
+
+.skill_container>div h3{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.skill_content{
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   column-gap: 3rem;
+   row-gap: 1rem;
+}
+
+.skill_details{
+    display: flex;
+    gap:1rem;
+}
+
+.skill_details-icon{
+    margin-top: 6px;
+    color: yellow;
+}
+
+@media screen and (max-width : 900px){
+     .skill_container{
+        gap: 1.5rem;
+     }
+
+     .skill_container > div{
+         padding: 2.4rem 2rem;
+         
+     }
+}
+
+@media screen and (max-width : 750px){
+    .skill_container{
+        gap: 1rem;
+    }
+    .skill_container > div{
+        padding : 2.4rem 1rem;
+    }
+}
+@media  screen and (max-width : 660px) {
+     .skill_container{
+        grid-template-columns: 1fr;
+     }
+     .skill_container > div{
+        background: transparent;
+     }
+}

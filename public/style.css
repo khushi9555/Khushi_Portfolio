@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'poppins' , sans-serif;
+}
+
+body{
+    background: rgb(30, 30,30);
+    color : white;
+    overflow: hidden;
+    overflow-y: scroll;
+    position: relative;
+}
+
+#minicircle{
+    width: 20px;
+    height: 20px;
+    background-color: yellow;
+    position : absolute;
+    border-radius: 50%;
+    z-index: 9999;
+    transition: all cubic-bezier(0.19, 1, 0.22, 1) 1s;
+}
+
